@@ -16,3 +16,6 @@ file_name = "generated_qr.png"
 img.save(file_name)
 
 print(f"QR code successfully generated and saved as '{file_name}'.")
+
+#Run the following code in VS Terminal First!!!
+#pip install qrcode pillow
